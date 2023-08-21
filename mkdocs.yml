@@ -1,5 +1,5 @@
-site_name: Concurrent-Parallel Programming with Python
-site_url: https://www.cpp.joefaver.dev/
+site_name: Multitasking with Python
+site_url: https://multitasking-python.joefaver.dev/
 site_description: A Comprehensive Guide to Concurrency and Parallelism in Python for Data Scientists and Software Developers.
 site_author: Joseph F. Vergel-Becerra
 
@@ -12,7 +12,8 @@ theme:
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: default
-      primary: pink 
+      primary: pink
+      accent: light blue
       toggle:
         icon: material/lightbulb-outline
         name: Switch to dark mode
@@ -20,7 +21,8 @@ theme:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: slate
-      primary: pink 
+      primary: pink
+      accent: light blue
       toggle:
         icon: material/lightbulb
         name: Switch to light mode
