@@ -1,9 +1,9 @@
 site_name: Multitasking with Python
-site_url: https://multitasking-python.joefaver.dev/
+site_url: https://multitasking-with-python.joefaver.dev/
 site_description: A Comprehensive Guide to Concurrency and Parallelism in Python for Data Scientists and Software Developers.
 site_author: Joseph F. Vergel-Becerra
 
-repo_url: https://github.com/joefavergel/concurrent-parallel-python
+repo_url: https://github.com/joefavergel/multitasking-with-python
 edit_uri: blob/main/docs/
 
 theme:

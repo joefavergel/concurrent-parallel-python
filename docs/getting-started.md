@@ -7,7 +7,7 @@
 2. Now, you can create a `Python 3.11` virtual environment with:
 
     ```bash
-    conda create -n cpp-py311 python=3.11.4 && conda activate cpp-py311
+    conda create -n mtwp-py311 python=3.11.4 && conda activate mtwp-py311
     ```
 
 3. Let's go!
